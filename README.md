@@ -12,7 +12,7 @@ A Flutter application that displays **live cricket scores**, match details, and 
 
 ## 🛠️ Tech Stack
 
-- Flutter – UI framework
-- Dart – Programming language
-- HTTP – For API calls
-- Cricket API - Rapid Api
+- **Flutter** – UI framework
+- **Dart** – Programming language
+- **HTTP** – For API calls
+- **Cricket API** - Rapid Api
