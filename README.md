@@ -1,6 +1,6 @@
 # 🏏 Live Cricket Score App
 
-A Flutter application that displays **live cricket scores**, match details, and more using a public cricket API. Built with a clean UI and real-time updates.
+A Flutter application that displays **live cricket scores**, match details, and more using a Rapid API. Built with a clean UI and real-time updates.
 
 ## 📱 Features
 
